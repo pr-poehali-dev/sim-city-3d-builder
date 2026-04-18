@@ -6,7 +6,7 @@ interface MainMenuProps {
   onNavigate: (screen: GameScreen) => void;
 }
 
-const CITY_IMAGE = 'https://cdn.poehali.dev/projects/8d4123ec-8b8a-44e8-b81d-f88d091f300a/files/44e7b4b8-89e5-4ccf-8cb5-85872daf4c21.jpg';
+const CITY_IMAGE = 'https://cdn.poehali.dev/projects/8d4123ec-8b8a-44e8-b81d-f88d091f300a/files/b6b873b6-ce46-407e-87f8-45670d7df158.jpg';
 
 export default function MainMenu({ onNavigate }: MainMenuProps) {
   return (
